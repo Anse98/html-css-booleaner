@@ -16,6 +16,23 @@ header {
   width: 150px;
 }
 
+.general {
+  padding: 20px 0;
+}
+
+#autore-e-data {
+  color: hsl(0, 0%, 50%);
+}
+
+#Anse {
+  color: rgba(0, 136, 255, 0.814);
+}
+
+#data-pubblicazione {
+  font-size: 12px;
+}
+
+
 
 
 
